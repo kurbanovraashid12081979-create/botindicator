@@ -1,0 +1,36 @@
+{
+    "BOT_TOKEN": "7791300927:AAEkaDIU95ETWTMYnsGKvF855yn6ZZ15FJs",
+    "TELEGRAM_USER_ID": 775111334,
+    "VOLUME_SPIKE_THRESHOLD": 110,
+    "PRICE_CHANGE_THRESHOLD": 2,
+    "MIN_DAILY_VOLUME": 10500,
+    "TIMEFRAMES": [
+        "5m",
+        "15m",
+        "1h",
+        "4h"
+    ],
+    "TRADE_POLL_INTERVAL": 1,
+    "CONFIG_RELOAD_INTERVAL": 30,
+    "SHOW_DEBUG": false,
+    "BUY_SELL_THRESHOLD": 60,
+    "HISTORICAL_CANDLES": 30,
+    "HISTORICAL_TRADES": 500,
+    "ENABLED": true,
+    "SHOW_LARGE_ORDER": true,
+    "EXCHANGES": [
+        "Mexc",
+        "CoinEx"
+    ],
+    "ENABLED_EXCHANGES": [
+        "CoinEx",
+        "MEXC",
+        "Binance"
+    ],
+    "EXCHANGES_ENABLED": {
+        "MEXC": true,
+        "CoinEx": true,
+        "Binance": true
+    },
+    "LARGE_ORDER_THRESHOLD": 50
+}
